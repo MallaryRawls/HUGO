@@ -1,0 +1,6 @@
+baseURL = "https://mallaryrawls.github.io/hugo/"
+languageCode = "en-us"
+title = "Mallary Rawls"
+theme = "ananke"
+
+publishdir = "docs"

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mallary Rawls</title>
+    <link>https://mallaryrawls.github.io/hugo/</link>
+    <description>Recent content on Mallary Rawls</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Apr 2021 16:52:54 -0400</lastBuildDate><atom:link href="https://mallaryrawls.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reconstruction pedagogy</title>
+      <link>https://mallaryrawls.github.io/hugo/posts/reconstruction-pedagagoy/</link>
+      <pubDate>Fri, 02 Apr 2021 16:52:54 -0400</pubDate>
+      
+      <guid>https://mallaryrawls.github.io/hugo/posts/reconstruction-pedagagoy/</guid>
+      <description>This site is about reconstruction pedagogy.</description>
+    </item>
+    
+  </channel>
+</rss>
