@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mallary Rawls</title>
-    <link>https://mallaryrawls.github.io/HUGO/</link>
-    <description>Recent content on Mallary Rawls</description>
+    <title>jekyll update on Mallary Rawls</title>
+    <link>https://mallaryrawls.github.io/HUGO/categories/jekyll-update/</link>
+    <description>Recent content in jekyll update on Mallary Rawls</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Apr 2021 11:42:24 -0400</lastBuildDate><atom:link href="https://mallaryrawls.github.io/HUGO/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Apr 2021 11:42:24 -0400</lastBuildDate><atom:link href="https://mallaryrawls.github.io/HUGO/categories/jekyll-update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to Jekyll!</title>
       <link>https://mallaryrawls.github.io/HUGO/posts/2021-04-18-cleaning/</link>
@@ -14,15 +14,6 @@
       
       <guid>https://mallaryrawls.github.io/HUGO/posts/2021-04-18-cleaning/</guid>
       <description>Tools Used  https://www.sublimetext.com/SublimeText [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] Markdown Cheatsheet Microsoft Excel and Word  Part 1:  I downloaded Eppes textbook on Hathitrust, both a pdf and text versions of the book. I used Microsoft Word to retrieve the word count of each chapter. I skimmed the each chapter of the text to see the years Eppes was referring to in each chapter and the location. I complied the metadata was I looking for (see data dictionary) in an Excel spreadsheet.</description>
-    </item>
-    
-    <item>
-      <title>Reconstruction pedagogy</title>
-      <link>https://mallaryrawls.github.io/HUGO/posts/reconstruction-pedagagoy/</link>
-      <pubDate>Fri, 02 Apr 2021 16:52:54 -0400</pubDate>
-      
-      <guid>https://mallaryrawls.github.io/HUGO/posts/reconstruction-pedagagoy/</guid>
-      <description>This site is will focus on my research for my thesis that will focus on Reconstruction pedagogy.</description>
     </item>
     
   </channel>

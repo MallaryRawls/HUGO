@@ -2,9 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mallary Rawls</title>
-    <link>https://mallaryrawls.github.io/hugo/categories/</link>
+    <link>https://mallaryrawls.github.io/HUGO/categories/</link>
     <description>Recent content in Categories on Mallary Rawls</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://mallaryrawls.github.io/hugo/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Apr 2021 11:42:24 -0400</lastBuildDate><atom:link href="https://mallaryrawls.github.io/HUGO/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jekyll update</title>
+      <link>https://mallaryrawls.github.io/HUGO/categories/jekyll-update/</link>
+      <pubDate>Tue, 13 Apr 2021 11:42:24 -0400</pubDate>
+      
+      <guid>https://mallaryrawls.github.io/HUGO/categories/jekyll-update/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
