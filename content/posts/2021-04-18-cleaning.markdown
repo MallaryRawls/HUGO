@@ -5,9 +5,11 @@ date:   2021-04-13 11:42:24 -0400
 categories: jekyll update
 ---
 
+## Cleaning Up Metadata
+
 ## Tools Used 
 - [https://www.sublimetext.com/](https://www.sublimetext.com/)SublimeText
-- [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet] Markdown Cheatsheet 
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet Markdown Cheatsheet 
 - Microsoft Excel and Word 
 
 ## Part 1: 
