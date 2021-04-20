@@ -47,8 +47,12 @@ Tallahassee, FL
 
 ### Presentations 
 
+Moderator, “First Book Forum ‘Dissertation to Book’ Panel”, FSU Libraries, Tallahassee, FL, November 22, 2019
+
 Co-Panelist, "In Search of Just & Responsible Culture of Assessment: Two Critical Altneratives to Learning Analytics in Libraries". Critical Librarianship and Theory (CLPS) Conference, Arizona State University, Tuscon, AZ, March 11, 2020. 
 
 ### Publications 
+
+M. Rawls (2019, November 2). NMRT Alternative Voices - Mallary Rawls. Retrieved from website. https://www.nmrt.ala.org/notes/nmrt-alternative-voices-mallary-rawls/. 
 
 Dai, J., Leftwich, A.M., & Rawls, M. (2020) Residencies Revisited Chapter. In P. Gorecki & A. Petrovich (Eds.), Residencies Revisited (undetermined). Sacramento, CA: Library Juice Press. 
