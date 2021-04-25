@@ -8,8 +8,8 @@ categories: jekyll update
 ## Cleaning Up Metadata
 
 ## Tools Used 
-- [https://www.sublimetext.com/](https://www.sublimetext.com/)SublimeText
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet Markdown Cheatsheet 
+- [Sublime Text](https://www.sublimetext.com/) 
+- [Github Markdown Cheatsheet](https://guides.github.com/features/mastering-markdown/) 
 - Microsoft Excel and Word 
 
 ## Part 1: 
@@ -17,7 +17,7 @@ categories: jekyll update
 
 ## Part 2: 
 2. I used Sublime Text for the majority of this project. When cleaning I used the find and replace option available through Sublime Text to find and replace the following: 
-- Removed /n 
+- Removed  
 - Removed /## p. 
 - Removed /## #s s s
 - Removed /#s s s 
