@@ -17,7 +17,8 @@ categories: jekyll update
 
 ## Part 2: 
 2. I used Sublime Text for the majority of this project. When cleaning I used the find and replace option available through Sublime Text to find and replace the following: 
-- Removed  
+''''
+Removed  
 - Removed /## p. 
 - Removed /## #s s s
 - Removed /#s s s 
