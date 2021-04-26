@@ -7,4 +7,10 @@ categories: jekyll update
 
 ## Tabular Data 
 
+- the way I collected data 
+- how I'm thinking about data 
+- the process 
+
 ## Data Visualization 
+- the process 
+- where's it's going 
