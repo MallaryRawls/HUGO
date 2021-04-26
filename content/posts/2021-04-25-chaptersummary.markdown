@@ -45,7 +45,7 @@ Other data I would like to collect from this text is the use of common words in 
 
 ## Rutherford, *Truths of History* 
 
-I'm currently working on collecting data from this text and plan on using the same structure as above. I'm Rutherfords *Truths of History* is an *interesting* text. Rutherford uses quotes from *men of unquestioned authority* as her "truths" to cement that the way The South as been treated through historical texts is inaccurate and obscence. Rutherford opens her text with the following quote: 
+I'm currently working on collecting data from this text and plan on using the same structure as above. Rutherfords *Truths of History* is an *interesting* text. Rutherford uses quotes from *men of unquestioned authority* as her "truths" to cement that the way The South as been treated through historical texts is inaccurate and obscence. Rutherford opens her text with the following quote: 
 > "The South is not given credit for the part she deserves in the making of the Nation. The text books that are now 
 > being used are most unjust to her; the referenece books now in the libraries are most unjust to her; the omissions in history as now written are most unjust to her; the history as now written, if accepted, will consign her to infamy." 
 
