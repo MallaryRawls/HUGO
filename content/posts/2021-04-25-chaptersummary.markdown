@@ -49,4 +49,4 @@ I'm currently working on collecting data from this text and plan on using the sa
 > "The South is not given credit for the part she deserves in the making of the Nation. The text books that are now 
 > being used are most unjust to her; the referenece books now in the libraries are most unjust to her; the omissions in history as now written are most unjust to her; the history as now written, if accepted, will consign her to infamy." 
 
-## Further Readings/Futher Corpi 
+## Further Readings/Other Corpi 
