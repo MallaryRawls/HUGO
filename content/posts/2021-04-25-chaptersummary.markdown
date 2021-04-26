@@ -37,14 +37,16 @@ categories: jekyll update
 |1880s | 789 | Tallahassee, FL | 
 | 1926 | 2674 | Tallahassee, FL | 
 
-- how I collected data (short) 
-- stands out in the book using distant reading 
-- *Bag of Words* 
+## How I collected data
+
+I found a copy of Eppes diary/textbook through HathtiTrust and did a distant reading of the text in order to collect this data. The only author is Eppes and I also collected the title of each chapter and who's the intended audience for the book. Using distant reading was appropriate for the collection of this data, but eventually I would like to do a close reading of the text to understand the pedagogical uses of it.
+
+Other data I would like to collect from this text is the use of common words in the chapters and througout the text. Using distant reading there were some common words that stand out like 'black, happy, slave, The South, Negro/e'. I would like to invistigate what these words mean and the way in which Eppes uses them and what this means in terms of pedagogy. I would like to invesitgate what this narrative Eppes uses means to Reconstruction pedgagoy and how it contributed to the "happy slave" and Lost Cause myth pushed by the UDC. 
 
 ## Rutherford, *Truths of History* 
 
-- how I collected data (short) 
-- what stands out using distant reading 
-- *Bag of Words* in comparison to Eppes text 
+I'm currently working on collecting data from this text and plan on using the same structure as above. I'm Rutherfords *Truths of History* is an *interesting* text. Rutherford uses quotes from *men of unquestioned authority* as her "truths" to cement that the way The South as been treated through historical texts is inaccurate and obscence. Rutherford opens her text with the following quote: 
+> "The South is not given credit for the part she deserves in the making of the Nation. The text books that are now 
+> being used are most unjust to her; the referenece books now in the libraries are most unjust to her; the omissions in history as now written are most unjust to her; the history as now written, if accepted, will consign her to infamy." 
 
 ## Further Readings/Futher Corpi 
